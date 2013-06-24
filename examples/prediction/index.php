@@ -27,6 +27,7 @@ $client->setApplicationName("Google Prediction API PHP Starter Application");
 // your oauth2_client_id, oauth2_client_secret, and to register your 
 // oauth2_redirect_uri.
 // $client->setClientId('insert_your_oauth2_client_id');
+// $client->setClientId('576384193659.apps.googleusercontent.com');
 // $client->setClientSecret('insert_your_oauth2_client_secret');
 // $client->setRedirectUri('insert_your_oauth2_redirect_uri');
 // $client->setDeveloperKey('insert_your_developer_key');

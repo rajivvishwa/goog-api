@@ -21,8 +21,8 @@ require_once '../../src/contrib/Google_PredictionService.php';
 // Set your client id, service account name, and the path to your private key.
 // For more information about obtaining these keys, visit:
 // https://developers.google.com/console/help/#service_accounts
-const CLIENT_ID = '576384193659.apps.googleusercontent.com';
-const SERVICE_ACCOUNT_NAME = '576384193659@developer.gserviceaccount.com';
+//const CLIENT_ID = '576384193659.apps.googleusercontent.com';
+//const SERVICE_ACCOUNT_NAME = '576384193659@developer.gserviceaccount.com';
 
 // Make sure you keep your key.p12 file in a secure location, and isn't
 // readable by others.
